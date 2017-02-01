@@ -1,4 +1,4 @@
-# Programming-Detection-Bot
+# ProgrammingLanguage-Detection-Bot
 
 
 ##uses Algorithmia API
